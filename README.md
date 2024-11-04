@@ -27,7 +27,7 @@ Siga estas instruções para rodar a aplicação localmente:
 1. **Clonar o Repositório**
 
    ```bash
-   git clone <URL_DO_REPOSITORIO>
+   git clone https://github.com/ArkaNiightt/Projeto---Hair-Day.git
    cd hairday
    ```
 
