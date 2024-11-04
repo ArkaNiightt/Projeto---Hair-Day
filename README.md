@@ -1,6 +1,6 @@
 # HairDay - Aplicativo de Agendamento de Cabeleireiro
 
-![HairDay Logo](https://via.placeholder.com/150)
+![HairDay Logo](Print_Project_Web.jpeg)
 
 ## Descrição
 
